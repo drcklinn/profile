@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Apache ...
 - 📫 How to reach me ...email:mrchanmp@yandex.com​
 - 📫 How to reach me ...email:mrchanmp@proton.me
-- 📫 How to reach me ...email:web mail@drchan.ip-ddns.com
+- 📫 How to reach me ...email:webmail@drchan.ip-ddns.com
 - 📫 How to reach me ...email:drcklynn@github.oktaidp​
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...nothing specials 
