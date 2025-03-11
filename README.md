@@ -1,4 +1,4 @@
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1rtv9.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+[[PROJECTS]]
 [Github Pages](https://drcklinn.github.io)
 - 👋 Hi, I’m @drcklinn
 - 👀 I’m interested in these new things of webservers and hosting ...
