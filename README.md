@@ -1,4 +1,4 @@
-[[PROJECTS]]
+[PROJECTS](https://drchanmp.hi.link/)
 [Github Pages](https://drcklinn.github.io)
 - 👋 Hi, I’m @drcklinn
 - 👀 I’m interested in these new things of webservers and hosting ...
